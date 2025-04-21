@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@codemirror/lang-go": "^6.0.1",
+    "@codemirror/lang-javascript": "^6.2.3",
+    "@codemirror/lang-python": "^6.1.7",
+    "@codemirror/legacy-modes": "^6.5.0",
+    "@codemirror/theme-one-dark": "^6.1.2",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "codemirror": "^6.0.1",
+    "i": "^0.3.7",
+    "npm": "^11.3.0",
+    "rollup": "^4.40.0"
+  }
+}
