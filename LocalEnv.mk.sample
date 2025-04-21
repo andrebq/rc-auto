@@ -1,0 +1,3 @@
+# Rename this file to LocalEnv.mk and change values
+rcCarIP?=127.0.0.1
+rcCarUser?=pi

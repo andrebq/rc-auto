@@ -1,4 +1,9 @@
-.PHONY: default build build-cmd test watch bundle bundle-code-mirror
+.PHONY: default build build-cmd test watch bundle bundle-code-mirror \
+	firmware-upload firmware-download firmware-run
+
+-include LocalEnv.mk
+
+include mks/Firmware.mk
 
 default: build
 
